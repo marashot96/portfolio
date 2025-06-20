@@ -15,7 +15,7 @@
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | [📊 Поведенческий анализ клиентов](./projects/paysim_analysis/README.md) | Анализ транзакционного поведения клиентов банка (обезличенный) | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `A/B-tests` |
-| [📁 Автоматизация аналитики в CRM](./projects/crm_automation/README.md) | Реализация метрик и автоматизация в НКО (обезличенный)| `Excel`, `Python`, `метрики`, `SQL` |
+| [📁 Автоматизация аналитики в CRM](./projects/crm_automation/README.md) | Реализация метрик и автоматизация в НКО (обезличенный)| `Excel`, `Python`, `Метрики`, `SQL` |
 
 ## 🧰 Навыки
 
@@ -42,7 +42,6 @@
 
 ## 💼 Контактная информация
 
-- 📄 [Резюме](#)  
 - 📫 [@marashot96](https://t.me/marashot96)
 - 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
 
