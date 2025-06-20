@@ -14,12 +14,12 @@
 Кликните на навык, чтобы увидеть проекты с практическими примерами по нему.
 | Навык | Описание | Уровень |
 |-------|---------|------------|
-| Python  | Владею следующими библиотеками: Pandas, NumPy, Seaborn | ★★★★★ |
+| [Python](https://github.com/marashot96/Python-skils)  | Владею следующими библиотеками: Pandas, NumPy, Seaborn | ★★★★★ |
 | Матем. статистика, модели | ---- |  ★★★★★ |
-| SQL | JOIN, оконные, подзапросы | ★★★★★ |
+| [SQL, PostgreSQL](https://github.com/marashot96/SQL-Skills) | JOIN, оконные, подзапросы | ★★★★★ |
 | Excel (формулы, отчёты, KPI) | ----- |  ★★★★★ |
 | A/B тестирование, p-value, MDE | ----- | ★★★★☆ |
-| Git, Markdown, GitHub | ----- | ★★★★☆ |
+| [Git, Markdown, GitHub](https://github.com/marashot96/) | Здесь собраны все мои работы на GitHub | ★★★★☆ |
 
 ## 🏆 Достижения
 
