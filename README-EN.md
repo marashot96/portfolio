@@ -1,8 +1,12 @@
 # 👨‍💻 My Portfolio
 
-Hello! My name is Ashot Margaryan, a data analyst with a strong mathematical background and experience in education and automation. This repository is my professional showcase, containing cases, projects, and skills I have been developing over many years.
+<div align="right">
 
 🇷🇺 [Русская версия](README.md)
+
+</div>
+
+Hello! My name is Ashot Margaryan, a data analyst with a strong mathematical background and experience in education and automation. This repository is my professional showcase, containing cases, projects, and skills I have been developing over many years.
 
 ## 🧭 Projects Navigation
 
