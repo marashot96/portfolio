@@ -1,4 +1,4 @@
-#  <div align="center"> 👨‍💻 Портфолио - Маргарян Ашот </div>
+#  <div align="center"> 👨‍💻 Маргарян Ашот - портфолио </div>
 
 <div align="right">
   
