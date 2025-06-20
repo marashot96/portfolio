@@ -15,7 +15,7 @@
 ## 💼 Резюме, аккаунты
 
 - 📄 [Резюме](#)  
-- 🧠 [Codewars 4kyu](https://www.codewars.com/)  
+- 🧠 [Codewars 4kyu](https://www.codewars.com/users/marashot96)  
 - 📫 Telegram: [@yourhandle](https://t.me/marashot96)
 
 ---
@@ -24,7 +24,7 @@
 
 | Инструмент | Уровень |
 |-----------|---------|
-| Python (Pandas, NumPy, Seaborn) | ★★★★☆ |
+| Python (Pandas, NumPy, Seaborn) | ★★★★★ |
 | SQL (JOIN, оконные, подзапросы) | ★★★★☆ |
 | Excel (формулы, отчёты, KPI) | ★★★★★ |
 | A/B тестирование, p-value, MDE | ★★★★☆ |
