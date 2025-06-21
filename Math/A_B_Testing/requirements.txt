@@ -4,4 +4,3 @@ scipy==1.13.0
 matplotlib==3.8.3
 seaborn==0.13.2
 statsmodels==0.14.1
-jupyter==1.0.0
