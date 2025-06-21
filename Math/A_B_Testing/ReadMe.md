@@ -33,7 +33,7 @@ n = \frac{2\cdot(Z_{1-\alpha/2} + Z_{1-\beta})^2\cdot\sigma^2}{\delta^2}
 
 ## Практический пример: Оптимизация конверсии на сайте банка
 
-Открыть Jupyter Notebook
+Открыть Jupyter Notebook [[Открыть Jupyter Notebook]](https://colab.research.google.com/github/marashot96/portfolio/blob/main/Math/analysis.ipynb)
 
 ### Описание эксперимента
 - Цель: Увеличение конверсии в оформление кредитной карты
