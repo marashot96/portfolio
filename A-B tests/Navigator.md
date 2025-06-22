@@ -1,4 +1,4 @@
-| <div align="left"> <a href="https://github.com/marashot96/portfolio">🔙 Назад к портфолио </a>  </div> | | <div align="center">  <a href="https://github.com/marashot96/portfolio"> 🇬🇧 English version </a> </div> | 
+| <div align="left"> <a href="https://github.com/marashot96/portfolio/README.md">🔙 Назад к портфолио </a>  </div> | | <div align="center">  <a href="https://github.com/marashot96/portfolio"> 🇬🇧 English version </a> </div> | 
 | ---- | -------- | ----- |
 
 # 🔍 Мои навыки в проведении A/B-тестов
