@@ -48,7 +48,7 @@ ORDER BY 1;
 | 6              | Sat     | 8249           | 399             | 7850          | 0.952        |
 | 7              | Sun     | 9454           | 443             | 9011          | 0.953        |
 
-Количество строк: 7
+&emsp &emsp Количество строк: 7
 
 ---
 
@@ -133,6 +133,7 @@ SELECT
     END AS new_price
 FROM products
 ORDER BY new_price DESC, product_id;
+```
 
 #### Результат запроса 4 (фрагмент)
 
@@ -146,4 +147,4 @@ ORDER BY new_price DESC, product_id;
 | 10         | семечки         | 12.0      | 12.0      |
 | 54         | пакет бумажный  | 1.0       | 1.0       |
 
-Количество строк: 87
+&emsp &emsp Количество строк: 87
