@@ -28,6 +28,7 @@ WITH ranked_transactions AS (
     FROM customers c
     JOIN transactions t ON c.customer_id = t.customer_id
 )
+
 SELECT
     customer_id, name, transaction_id, amount, transaction_date, total_transactions, txn_rank
 FROM ranked_transactions
