@@ -58,7 +58,7 @@
 - 📫 [t.me/marashot96](https://t.me/marashot96)
 - 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
 
-<div align="center">  <a href="https://github.com/marashot96/portfolio/blob/main/README.md">🔙 Обратно к портфолио </a> </div>
+<div align="center">  <a href="https://github.com/marashot96/portfolio/blob/main/README.md#--маргарян-ашот---портфолио-">🔙 Обратно к портфолио </a> </div>
 ---
 
 
