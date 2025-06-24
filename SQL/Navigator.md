@@ -22,27 +22,14 @@ Join, оконные функции, подзапросы
 ```sql
 WITH ranked_transactions AS (
     SELECT
-        c.customer_id,
-        c.name,
-        t.transaction_id,
-        t.amount,
-        t.transaction_date,
+        c.customer_id, c.name, t.transaction_id, t.amount, t.transaction_date,
         COUNT(*) OVER (PARTITION BY c.customer_id) AS total_transactions,
-        ROW_NUMBER() OVER (
-            PARTITION BY c.customer_id
-            ORDER BY t.transaction_date DESC
-        ) AS txn_rank
+        ROW_NUMBER() OVER (PARTITION BY c.customer_id ORDER BY t.transaction_date DESC) AS txn_rank
     FROM customers c
     JOIN transactions t ON c.customer_id = t.customer_id
 )
 SELECT
-    customer_id,
-    name,
-    transaction_id,
-    amount,
-    transaction_date,
-    total_transactions,
-    txn_rank
+    customer_id, name, transaction_id, amount, transaction_date, total_transactions, txn_rank
 FROM ranked_transactions
 WHERE txn_rank <= 3
 ORDER BY customer_id, txn_rank;
