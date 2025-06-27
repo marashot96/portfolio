@@ -1,13 +1,7 @@
-<p align="center">
+<div align="center">
   🇬🇧 <a href="README_en.md">English version</a> &nbsp;&nbsp;&nbsp;
   <a href="/README.md"> ⬅️ Назад к портфолио</a>
-</p>
-
-<p align="center">
-  <hr style="width: 300px; border: 1px solid lightgray; margin: 0 auto;">
-</p>
-
-
+</div>
 
 # <div align='center'> Навыки работы в SQL </div>
 
