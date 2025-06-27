@@ -1,11 +1,12 @@
 <p align="center">
-  <a href="../Python/README.md">⬅️ Назад к навыкам в Python</a> &nbsp;&nbsp;&nbsp;
   🇬🇧 <a href="README_en.md">English version</a> &nbsp;&nbsp;&nbsp;
+  <a href="/README.md">⬅️ Назад к портфолио</a>
 </p>
 
 <p align="center">
-  <hr style="width: 60%; border: 1px solid lightgray;" />
+  <hr style="width: 40%; border: 0.5px solid lightgray;" />
 </p>
+
 
 
 # <div align='center'> Навыки работы в SQL </div>
