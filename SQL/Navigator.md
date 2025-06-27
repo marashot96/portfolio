@@ -1,5 +1,5 @@
 <div align="center">
-  🇬🇧 <a href="README_en.md">English version</a> &nbsp;&nbsp;&nbsp;
+  🇬🇧 <a href="README_en.md">English version</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="/README.md"> ⬅️ Назад к портфолио</a>
 </div>
 
