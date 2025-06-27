@@ -1,8 +1,6 @@
 <div align="center">
-
-<div align="left"> <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-навыки">🔙 Назад к портфолио </a>  </div>  <div align="center">  <a href="https://github.com/marashot96/portfolio"> 🇬🇧 English version </a> </div> 
-
-
+  🇬🇧 <a href="README_en.md">English version</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты"> ⬅️ Назад к портфолио</a>
 </div>
 
 # <div align="center"> Мои навыки в проведении A/B-тестов </div>
