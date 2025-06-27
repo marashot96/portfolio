@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <hr style="width: 40px; margin: 1px auto;">
+  <hr style="width: 300px; border: 1px solid lightgray; margin: 0 auto;">
 </p>
 
 
