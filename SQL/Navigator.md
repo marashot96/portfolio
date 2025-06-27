@@ -69,4 +69,4 @@ ORDER BY customer_id, txn_rank;
 - 📫 [t.me/marashot96](https://t.me/marashot96)
 - 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
 
-<div align="center">  <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-навыки"> ⬅️ Назад к портфолио </a> </div>
+<a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты"> ⬅️ Назад к портфолио</a>
