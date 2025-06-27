@@ -1,6 +1,6 @@
 <p align="center">
   🇬🇧 <a href="README_en.md">English version</a> &nbsp;&nbsp;&nbsp;
-  <a href="/README.md">⬅️ Назад к портфолио</a>
+  <a href="/README.md"> ⬅️ Назад к портфолио</a>
 </p>
 
 <p align="center">
@@ -75,4 +75,4 @@ ORDER BY customer_id, txn_rank;
 - 📫 [t.me/marashot96](https://t.me/marashot96)
 - 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
 
-<div align="center">  <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-навыки">🔙 Обратно к портфолио </a> </div>
+<div align="center">  <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-навыки"> ⬅️ Назад к портфолио </a> </div>
