@@ -33,4 +33,4 @@
 - 📫 [t.me/marashot96](https://t.me/marashot96)
 - 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
 
-<a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты"> ⬅️ Назад к портфолио</a>
+<div align='center'> <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты"> ⬅️ Назад к портфолио</a> </div>
