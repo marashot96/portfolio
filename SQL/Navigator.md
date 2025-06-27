@@ -1,14 +1,3 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "29523155",
-   "metadata": {},
-   "source": [
-    "| <div align=\"left\"> <a href=\"https://github.com/marashot96/portfolio/blob/main/Python/Navigation.md\">🔙 Назад к навыкам в Python </a>  </div> | | <div align=\"center\">  <a href=\"https://github.com/marashot96/portfolio\"> 🇬🇧 English version </a> </div> | | <div align=\"right\"> <a href=\"https://github.com/marashot96/portfolio/blob/main/README.md\">🔙 Назад к портфолио </a>  </div> |\n",
-    "| ---- | -------- | ----- | ---------------- | ------ |\n",
-  ]}]}
-
 <p align="center">
   🇬🇧 <a href="README_en.md">English version</a> &nbsp;&nbsp;&nbsp;
   <a href="/README.md"> ⬅️ Назад к портфолио</a>
