@@ -3,7 +3,7 @@
   <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты"> ⬅️ Назад к портфолио</a>
 </div>
 
-# <div align="center"> Excel: навыки и примеры для продуктовой аналитики </div>
+# <div align="center"> Мои навыки применения Excel </div>
 
 В этой папке представлены примеры моих работ в **Microsoft Excel** и **Google Sheets**, которые демонстрируют прикладные навыки, востребованные в продуктовой аналитике.
 
