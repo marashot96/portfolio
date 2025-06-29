@@ -23,7 +23,7 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [Поведенческий анализ клиентов](./projects/paysim_analysis/README.md) | Анализ транзакционного поведения клиентов банка (обезличенный) | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `A/B-tests` |
+| [Поведенческий анализ клиентов](https://github.com/marashot96/custs-behavioral-analysis/blob/main/README.md) | Анализ транзакционного поведения клиентов банка (обезличенный) | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `A/B-tests` |
 | [Автоматизация аналитики в CRM](./projects/crm_automation/README.md) | Реализация метрик и автоматизация в НКО (обезличенный)| `Excel`, `Python`, `Метрики`, `SQL` |
 
 
