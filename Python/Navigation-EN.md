@@ -3,11 +3,9 @@
   <a href="https://github.com/marashot96/portfolio/blob/main/README-EN.md#-completed-projects"> ⬅️ Back to portfolio</a>
 </div>
 
-# <div align="center"> 🐍 Python Skills </div>
+# <div align="center"> Python Skills </div>
 
-Welcome to [my](https://github.com/marashot96/portfolio/blob/main/README-EN.md) collection of Python projects!  
-Here you will find a curated selection of educational and research tasks where I applied my skills in data analysis, mathematics, and algorithmic development.  
-Most of the projects demonstrate practical use of Pandas, NumPy, Seaborn, as well as writing efficient and readable code.
+Welcome to [my](https://github.com/marashot96/portfolio/blob/main/README-EN.md) collection of Python projects! Here you will find a curated selection of educational and research tasks where I applied my skills in data analysis, mathematics, and algorithmic development. Most of the projects demonstrate practical use of Pandas, NumPy, Seaborn, as well as writing efficient and readable code.
 
 ## 🔍 Navigation
 
