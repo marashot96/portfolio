@@ -26,7 +26,7 @@ All the files used in the programs are collected in [this](/Python/Files%20from%
 
 ## 💼 Contact Information
 
-If you'd like to discuss problems, tasks, or proposals — or suggest a case or collaboration — feel free to get in touch!
+If you'd like to discuss tasks, projects, or proposals — or suggest a case study or collaboration — feel free to reach out!
 
 - 📫 [t.me/marashot96](https://t.me/marashot96)
 - 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
