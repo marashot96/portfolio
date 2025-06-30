@@ -1,46 +1,65 @@
-# 👨‍💻 My Portfolio
+#  <div align="center"> 👨‍💻 Ashot Margaryan – Portfolio </div>
 
 <div align="right">
-
-🇷🇺 [Русская версия](README.md)
+  
+🇷🇺 [Версия на русском](/README.md)
 
 </div>
 
-Hello! My name is Ashot Margaryan, a data analyst with a strong mathematical background and experience in education and automation. This repository is my professional showcase, containing cases, projects, and skills I have been developing over many years.
 
-## 🧭 Projects Navigation
+## 👋 About Me
+
+Hello,
+
+<p align="justify">
+I am an analyst with a strong background in mathematics and experience in data automation, analysis, and visualization. As a Ph.D. candidate in mathematical statistics, I specialize in the development of Bayesian estimation methods and robust statistics — enabling the creation of analytical solutions with guaranteed reliability.
+I am proficient in Python, SQL, and Excel for implementing complex models in practice.
+</p>
+
+## 🧭 Completed Projects
+<p align="justify">
+This section contains projects I have worked on over the past few years. Click on a project title to access the full set of scripts, SQL queries, and visualizations associated with it.
+
+Each project has a dedicated README.md file — I recommend reviewing it first to better understand the context and objectives of the work.
+</p>
 
 | Project | Description | Technologies |
-|---------|-------------|--------------|
-| [📊 Behavioral Client Analysis](./projects/paysim_analysis/README.md) | Analysis of bank clients’ transactional behavior (anonymized) | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `A/B-tests` |
-| [📁 CRM Analytics Automation](./projects/crm_automation/README.md) | Implementation of metrics and automation in a nonprofit organization (anonymized) | `Excel`, `Python`, `KPI methodology`, `SQL` |
+|--------|-------------|--------------|
+| [Customer Behavioral Analysis](https://github.com/marashot96/custs-behavioral-analysis/blob/main/README.md) | Analysis of anonymized transactional behavior of bank clients | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `A/B-tests` |
+| [Analytics Automation in CRM](./projects/crm_automation/README.md) | Implementation of metrics and automation in a nonprofit organization (anonymized) | `Excel`, `Python`, `Metrics`, `SQL` |
+
 
 ## 🧰 Skills
 
-Click on a skill to view projects with practical examples related to it.
+Click on a skill to view projects with practical applications.
 
-| Skill | Description | Level |
-|-------|-------------|-------|
-| [Python](https://github.com/marashot96/Python-skills) | Proficient with libraries: Pandas, NumPy, Seaborn | ★★★★★ |
-| Mathematical Statistics & Modeling | ---- | ★★★★★ |
-| [SQL, PostgreSQL](https://github.com/marashot96/SQL-Skills) | JOINs, window functions, subqueries | ★★★★★ |
-| Excel (formulas, reports, KPI) | ---- | ★★★★★ |
-| A/B Testing, p-value, MDE | ---- | ★★★★☆ |
-| [Git, Markdown, GitHub](https://github.com/marashot96/) | All my work on GitHub gathered here | ★★★★☆ |
+| Skill | Description | Proficiency |
+|-------|-------------|-------------|
+| [Python](/Python/Navigation.md) | Proficient in Pandas, NumPy, Seaborn. Data analysis and visualization, writing clean code | ★★★★★ |
+| [Mathematical Statistics and Models](/Math/Navigator.md) | Regression modeling, hypothesis testing, stochastic processes, statistical inference | ★★★★★ |
+| [SQL, PostgreSQL](/SQL/Navigator.md) | Complex queries: JOINs, window functions, subqueries, aggregations | ★★★★★ |
+| [Excel](/Excel/Navigator.md) | Advanced formulas, calculation automation, visualization and reporting | ★★★★★ |
+| [A/B Testing](/A-B%20tests/Navigator.md) | Experiment design, MDE calculation, result interpretation | ★★★★☆ |
+| BI Tools (Power BI, Looker Studio) | Dashboard design, data visualization, filtering, source configuration | ★★★★☆ |
+| [GitHub](https://github.com/marashot96/); [Codewars](https://www.codewars.com/users/marashot96) | Enhancing knowledge and discussing approaches to programming. For example, I contribute as a problem author and reviewer on Codewars. On GitHub, I publish notes and repositories to support colleagues in current projects. | ★★★★☆ |
 
 ## 🏆 Achievements
 
-- 🎯 Codewars — 4 kyu (Python)  
-  [Profile on Codewars](https://www.codewars.com/users/marashot96)  
-- ⚙️ Automation of CRM accounting and reporting, reducing manual work by 30%
-- 🧪 Development of performance metrics and improvements through A/B testing
-- 🎖️ Regional awards received
-- 👨‍🏫 Increased students’ average grades by 20% through teaching analytics  
+- 🎯 Codewars — 4 kyu (Python) [Codewars Profile](https://www.codewars.com/users/marashot96)  
+- ⚙️ Automated reporting and data tracking in CRM, reducing manual work by 30%
+- 🧪 Developed performance metrics and improved outcomes through A/B testing
+- 🎖️ Recipient of regional awards
+- 👨‍🏫 Increased average student performance by 20% through data-driven training in analytics  
+
 
 ---
 
 ## 💼 Contact Information
 
-- 📄 [Resume (PDF)](#)  
-- 📫 [@marashot96](https://t.me/marashot96)
+If you'd like to discuss tasks, projects, or proposals — or suggest a case study or collaboration — feel free to reach out!
+
+- 📫 [t.me/marashot96](https://t.me/marashot96)
 - 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
+
+<div align="center">  <a href="https://github.com/marashot96/portfolio/blob/main/README.md#--маргарян-ашот---портфолио-">🔙 Back to Portfolio </a> </div>
+
