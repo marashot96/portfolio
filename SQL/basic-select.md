@@ -1,3 +1,9 @@
+<div align="center"> 
+       <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigation.md">🔙 Назад к навыкам в SQL </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/marashot96/portfolio"> 🇬🇧 English version </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты">🔙 Назад к портфолио </a>  
+</div> 
+
 # <div align='center'> Фильтрация, сортировка, группировка  </div>
 
 ## 🧭 Описание
@@ -155,3 +161,15 @@ ORDER BY new_price DESC, product_id;
 | 54         | пакет бумажный  | 1.0       | 1.0       |
 
 <p> <i> Количество строк: 87 </i> </p>
+
+---
+
+## 💼 Контактная информация
+Если вы хотите обсудить различные задачи, запросы или проекты, предложить кейс или сотрудничество — обязательно напишите мне!
+
+- 📫 [t.me/marashot96](https://t.me/marashot96)
+- 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
+
+
+| <div align="left"> <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigation.md">🔙 Назад к навыкам в SQL </a>  </div> | | <div align="right"> <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты">🔙 Назад к портфолио </a>  </div> |
+| ---- | ---------------- | ------ |
