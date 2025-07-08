@@ -1,6 +1,6 @@
 <div align="center"> 
-       <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigation.md">🔙 Назад к навыкам в SQL </a> 
-       <a href="https://github.com/marashot96/portfolio"> 🇬🇧 English version </a> 
+       <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigation.md">🔙 Назад к навыкам в SQL </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/marashot96/portfolio"> 🇬🇧 English version </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты">🔙 Назад к портфолио </a>  
 </div> 
 
