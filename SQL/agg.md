@@ -125,5 +125,7 @@ ORDER BY day, day_type, daily_rank;
 - 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
 
 
-| <div align="left"> <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigation.md">🔙 Назад к навыкам в SQL </a>  </div> | | <div align="right"> <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты">🔙 Назад к портфолио </a>  </div> |
-| ---- | ---------------- | ------ |
+<div align="center"> 
+       <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigation.md">🔙 Назад к навыкам в SQL </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты">🔙 Назад к портфолио </a>  
+</div> 
