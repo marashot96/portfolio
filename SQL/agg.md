@@ -1,3 +1,9 @@
+<div align="center"> 
+       <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigation.md">🔙 Назад к навыкам в SQL </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/marashot96/portfolio"> 🇬🇧 English version </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты">🔙 Назад к портфолио </a>  
+</div> 
+
 # 📊 Расширенные SQL-запросы с оконными функциями
 
 Демонстрация продвинутого владения SQL с использованием оконных функций и CTE (Common Table Expressions). Примеры основаны на данных транзакций, предположительно, из модели PaySim.
@@ -111,3 +117,13 @@ ORDER BY day, day_type, daily_rank;
 | C1212       | 2025-01-02 | weekend  | 345000.00    | 1           |
 
 ---
+
+## 💼 Контактная информация
+Если вы хотите обсудить различные задачи, запросы или проекты, предложить кейс или сотрудничество — обязательно напишите мне!
+
+- 📫 [t.me/marashot96](https://t.me/marashot96)
+- 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
+
+
+| <div align="left"> <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigation.md">🔙 Назад к навыкам в SQL </a>  </div> | | <div align="right"> <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты">🔙 Назад к портфолио </a>  </div> |
+| ---- | ---------------- | ------ |
