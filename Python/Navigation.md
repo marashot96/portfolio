@@ -1,6 +1,6 @@
 <div align="center">
   🇬🇧 <a href="https://github.com/marashot96/portfolio/blob/main/Python/Navigation-EN.md">English version</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты"> ⬅️ Назад к портфолио</a>
+  <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-навыки"> ⬅️ Назад к портфолио</a>
 </div>
 
 # <div align="center">  Про навыки в Python </div>
@@ -30,4 +30,4 @@
 - 📫 [t.me/marashot96](https://t.me/marashot96)
 - 🌐 [marashot96@ya.ru](mailto:marashot96@ya.ru)
 
-<div align='center'> <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты"> ⬅️ Назад к портфолио</a> </div>
+<div align='center'> <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-навыки"> ⬅️ Назад к портфолио</a> </div>
