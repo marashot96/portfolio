@@ -1,7 +1,7 @@
 <div align="center"> 
        <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigator.md#%EF%B8%8F-структура-раздела">🔙 Назад к навыкам в SQL </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <a href="https://github.com/marashot96/portfolio"> 🇬🇧 English version </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты">🔙 Назад к портфолио </a>  
+       <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-навыки">🔙 Назад к портфолио </a>  
 </div> 
 
 # <div align="center"> Расширенные SQL-запросы с оконными функциями </div>
@@ -127,5 +127,5 @@ ORDER BY day, day_type, daily_rank;
 
 <div align="center"> 
        <a href="https://github.com/marashot96/portfolio/blob/main/SQL/Navigator.md#%EF%B8%8F-структура-раздела">🔙 Назад к навыкам в SQL </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-реализованные-проекты">🔙 Назад к портфолио </a>  
+       <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-навыки">🔙 Назад к портфолио </a>  
 </div> 
