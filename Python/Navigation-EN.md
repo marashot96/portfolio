@@ -11,7 +11,7 @@ Welcome to [my](https://github.com/marashot96/portfolio/blob/main/README-EN.md) 
 
 | Task | File | Short Description |
 |------|------|-------------------|
-| User Behavior Analysis in PaySim | [paysim_behavior_analysis.py](./paysim_behavior_analysis.py) | A project focused on behavioral analysis of mobile banking users based on the simulated PaySim dataset. The goal is to detect anomalies, assess fraud risk, and build customer segmentation models |
+| User Behavior Analysis in PaySim | [notebooks](https://github.com/marashot96/Credit-Products-Analysis/blob/main/notebooks/Navigator.md)| A project on behavioral analysis of Czech Bank users based on their various datasets. The goal of the analysis is to detect anomalies, assess fraud risk, and build customer segmentation. |
 | Converting Arabic Numbers to Chinese Numerals | [Chinese Numeral Encoder.ipynb](/Python/Chinese%20Numeral%20Encoder.ipynb) | Implementation of complex branching based on mathematical and arithmetic logic |
 | Number of Trailing Zeros in `n!` in an Arbitrary Base | [trailing_zeros_base.ipynb](/Python/trailing_zeros_base.ipynb) | <p align="justify"> A mathematical task with a universal implementation — generalizing the classical problem of trailing zeros in factorials. The program includes optimized algorithms for working with large numbers (factorials grow very rapidly) </p> |
 
