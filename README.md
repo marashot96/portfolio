@@ -35,7 +35,7 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [Поведенческий анализ клиентов](https://github.com/marashot96/custs-behavioral-analysis/blob/main/README.md#-czech-bank-project--) | Анализ транзакционного поведения клиентов банка (обезличенный) | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `A/B-tests` |
+| [Поведенческий анализ клиентов](https://github.com/marashot96/custs-behavioral-analysis/blob/main/README.md#-czech-bank-project--) | Анализ транзакционного поведения клиентов банка (обезличенный) | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `A/B-tests`, `PostgreSQL` |
 | [Автоматизация аналитики в CRM](https://github.com/marashot96/Automize/blob/main/README.md) | Реализация метрик и автоматизация в НКО (обезличенный)| `Excel`, `Python`, `Метрики`, `SQL` |
 
 
