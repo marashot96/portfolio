@@ -17,15 +17,10 @@ I am proficient in Python, SQL, and Excel for implementing complex models in pra
 </p>
 
 ## 🧭 Completed Projects
-<p align="justify">
-This section contains projects I have worked on over the past few years. Click on a project title to access the full set of scripts, SQL queries, and visualizations associated with it.
-
-Each project has a dedicated README.md file — I recommend reviewing it first to better understand the context and objectives of the work.
-</p>
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [Customer Behavioral Analysis](https://github.com/marashot96/custs-behavioral-analysis/blob/main/README.md) | Analysis of anonymized transactional behavior of bank clients | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `A/B-tests` |
+| [Customer Behavioral Analysis](https://github.com/marashot96/custs-behavioral-analysis/blob/main/README.md) | Analysis of anonymized transactional behavior of bank clients | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `A/B-tests` , `PostgreSQL`|
 | [Analytics Automation in CRM](./projects/crm_automation/README.md) | Implementation of metrics and automation in a nonprofit organization (anonymized) | `Excel`, `Python`, `Metrics`, `SQL` |
 
 
@@ -35,11 +30,11 @@ Click on a skill to view projects with practical applications.
 
 | Skill | Description | Proficiency |
 |-------|-------------|-------------|
-| [Python](/Python/Navigation.md) | Proficient in Pandas, NumPy, Seaborn. Data analysis and visualization, writing clean code | ★★★★★ |
-| [Mathematical Statistics and Models](/Math/Navigator.md) | Regression modeling, hypothesis testing, stochastic processes, statistical inference | ★★★★★ |
 | [SQL, PostgreSQL](/SQL/Navigator.md) | Complex queries: JOINs, window functions, subqueries, aggregations | ★★★★★ |
-| [Excel](/Excel/Navigator.md) | Advanced formulas, calculation automation, visualization and reporting | ★★★★★ |
+| [Mathematical Statistics and Models](/Math/Navigator.md) | Regression modeling, hypothesis testing, stochastic processes, statistical inference | ★★★★★ |
 | [A/B Testing](/A-B%20tests/Navigator.md) | Experiment design, MDE calculation, result interpretation | ★★★★☆ |
+| [Python](/Python/Navigation.md) | Proficient in Pandas, NumPy, Seaborn. Data analysis and visualization, writing clean code | ★★★★★ |
+| [Excel](/Excel/Navigator.md) | Advanced formulas, calculation automation, visualization and reporting | ★★★★★ |
 | BI Tools (Power BI, Looker Studio) | Dashboard design, data visualization, filtering, source configuration | ★★★★☆ |
 | [GitHub](https://github.com/marashot96/); [Codewars](https://www.codewars.com/users/marashot96) | Enhancing knowledge and discussing approaches to programming. For example, I contribute as a problem author and reviewer on Codewars. On GitHub, I publish notes and repositories to support colleagues in current projects. | ★★★★☆ |
 
