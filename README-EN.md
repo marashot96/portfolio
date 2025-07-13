@@ -30,10 +30,10 @@ Click on a skill to view projects with practical applications.
 
 | Skill | Description | Proficiency |
 |-------|-------------|-------------|
-| [SQL, PostgreSQL](/SQL/Navigator.md) | Complex queries: JOINs, window functions, subqueries, aggregations | ★★★★★ |
+| [SQL, PostgreSQL](/SQL/Navigator-EN.md) | Complex queries: JOINs, window functions, subqueries, aggregations | ★★★★★ |
 | [Mathematical Statistics and Models](/Math/Navigator.md) | Regression modeling, hypothesis testing, stochastic processes, statistical inference | ★★★★★ |
 | [A/B Testing](/A-B%20tests/Navigator.md) | Experiment design, MDE calculation, result interpretation | ★★★★☆ |
-| [Python](/Python/Navigation.md) | Proficient in Pandas, NumPy, Seaborn. Data analysis and visualization, writing clean code | ★★★★★ |
+| [Python](/Python/Navigation-EN.md) | Proficient in Pandas, NumPy, Seaborn. Data analysis and visualization, writing clean code | ★★★★★ |
 | [Excel](/Excel/Navigator.md) | Advanced formulas, calculation automation, visualization and reporting | ★★★★★ |
 | BI Tools (Power BI, Looker Studio) | Dashboard design, data visualization, filtering, source configuration | ★★★★☆ |
 | [GitHub](https://github.com/marashot96/); [Codewars](https://www.codewars.com/users/marashot96) | Enhancing knowledge and discussing approaches to programming. For example, I contribute as a problem author and reviewer on Codewars. On GitHub, I publish notes and repositories to support colleagues in current projects. | ★★★★☆ |
