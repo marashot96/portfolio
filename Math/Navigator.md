@@ -1,5 +1,5 @@
 <div align="center">
-  🇬🇧 <a href="README_en.md">English version</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🇬🇧 <a href="/Math/Navigator-EN.md">English version</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/marashot96/portfolio/blob/main/README.md#-навыки"> ⬅️ Назад к портфолио</a>
 </div>
 
